@@ -6,7 +6,7 @@
 **Repository Name:** `documentation-files`
 
 **Description:**  
-"Guides and recommendations for setting up and managing WordPress sites, covering theme installation, essential plugins, and SEO basics."
+Guides and recommendations for setting up and managing WordPress sites, covering theme installation, essential plugins, and SEO basics.
 
 **README.md Content:**
 ```markdown
